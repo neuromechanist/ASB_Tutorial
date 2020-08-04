@@ -14,7 +14,7 @@ import datetime
 
 def drawSubtitle():
 	# get current year
-	msg = str(datetime.datetime.now().year)
+	msg = 'Reviewer 2\n is the best'
 
 	# plot text
 	ax.text(
