@@ -14,8 +14,7 @@
 
 def drawStemAndHalo():
 	# read in data
-	outline = pd.read_csv(
-		filepath_or_buffer='../data/outline.csv',
+	outline = pd.read_csv('data/outline.csv',
 		header = None)
 
 	# remove missing data

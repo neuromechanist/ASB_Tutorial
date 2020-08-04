@@ -24,7 +24,7 @@
 	# ax.fill_between(x, y, color = 'peru')
 	# ax.plot(x, y, color = 'black', linewidth = 2)
 
-Solution
+# Solution
 def drawBody():
 	'''Draw the peach body'''
 	# read in data
